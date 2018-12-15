@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thato-InterviewAssignment.Server", "Thato-InterviewAssignment.Server\Thato-InterviewAssignment.Server.csproj", "{F8C0310C-83F7-463D-8900-A5C5476B8191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thato-InterviewAssignment.App", "Thato-InterviewAssignment.App\Thato-InterviewAssignment.App.csproj", "{54E827C3-74BA-4FFD-863C-31BD5656F707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8C0310C-83F7-463D-8900-A5C5476B8191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C0310C-83F7-463D-8900-A5C5476B8191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C0310C-83F7-463D-8900-A5C5476B8191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C0310C-83F7-463D-8900-A5C5476B8191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E827C3-74BA-4FFD-863C-31BD5656F707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E827C3-74BA-4FFD-863C-31BD5656F707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E827C3-74BA-4FFD-863C-31BD5656F707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E827C3-74BA-4FFD-863C-31BD5656F707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60B62696-450C-46E7-BD32-C057186ABD8E}
+	EndGlobalSection
+EndGlobal
